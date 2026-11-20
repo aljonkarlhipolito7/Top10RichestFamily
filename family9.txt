@@ -1,0 +1,78 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Wertheimer Family - Richest Family in the World</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="header">
+    <h1>Richest Family in the World</h1>
+    <div class="top-nav">
+      <a href="about.html">About</a>
+      <a href="lifestyle.html">Lifestyle Guide</a>
+      <a href="top10.html">Top 10 Families</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="sidebar">
+      <h3>TOP 10 FAMILIES</h3>
+      <a href="index.html">HOME</a>
+      <a href="family1.html">1. Walton Family</a>
+      <a href="family2.html">2. Al Nahyan Family</a>
+      <a href="family3.html">3. Al Saud Family</a>
+      <a href="family4.html">4. Al Thani Family</a>
+      <a href="family5.html">5. Hermès Family</a>
+      <a href="family6.html">6. Koch Family</a>
+      <a href="family7.html">7. Mars Family</a>
+      <a href="family8.html">8. Ambani Family</a>
+      <a href="family9.html">9. Wertheimer Family</a>
+      <a href="family10.html">10. Thomson Family</a>
+    </div>
+
+    <div class="main-content">
+      <div class="section">
+        <h2>NO. 9 - WERTHEIMER FAMILY</h2>
+        <img
+          class="family-image"
+          src="pic9.jfif"
+          alt="Luxury Fashion"
+        />
+        <div class="info-box">
+          <p><b>Estimated Net Worth:</b> $85.6 Billion</p>
+          <p><b>Country:</b> France</p>
+          <p><b>Main Business:</b> Chanel</p>
+        </div>
+        <h3>Family Background</h3>
+        <p>
+          The Wertheimer family built its wealth through Chanel, one of the
+          world's most recognized luxury fashion brands. The family is also
+          involved in investments and other businesses.
+        </p>
+        <h3>Lifestyle Guide</h3>
+        <ul>
+          <li>Luxury fashion and designer accessories.</li>
+          <li>Exclusive properties and private estates.</li>
+          <li>Art collections and cultural activities.</li>
+          <li>Vineyards and horse racing interests.</li>
+          <li>International travel and luxury experiences.</li>
+        </ul>
+        <h3>Interesting Facts</h3>
+        <ul>
+          <li>The family owns the Chanel fashion house.</li>
+          <li>Chanel is famous for luxury fashion.</li>
+          <li>The family has interests in vineyards and horse racing.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <h3>Richest Family in the World</h3>
+    <p>Discover Wealth, Business, and Luxury Lifestyle.</p>
+    <p>Copyright 2026 - All Rights Reserved.</p>
+  </div>
+</body>
+</html>
